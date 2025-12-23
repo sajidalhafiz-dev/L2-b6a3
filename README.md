@@ -30,7 +30,7 @@ The system is built using **PostgreSQL** and follows a relational database model
 
 ### ER Diagram
 The ER diagram shows the relationships between users, vehicles, and bookings.
-![ER Diagram](assets/er-diagram.png)
+![ER Diagram](ER-diagram.png)
 
 ## SQL Queries
 
